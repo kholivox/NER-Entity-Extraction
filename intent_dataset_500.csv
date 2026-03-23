@@ -1,0 +1,501 @@
+text,intent
+create task prepare presentation,add_task
+what meetings do i have tomorrow,query_schedule
+what meetings do i have today,query_schedule
+good morning,greeting
+add task prepare presentation,add_task
+do i have meetings tuesday,query_schedule
+remind me to finish project tuesday,create_reminder
+hello,greeting
+set meeting with mike tuesday at 4pm,create_meeting
+please remind me to pay electricity bill monday,create_reminder
+add task call mom,add_task
+do i have meetings tomorrow,query_schedule
+create task pay electricity bill,add_task
+schedule meeting with alex tuesday at 2pm,create_meeting
+set a reminder to send report tomorrow,create_reminder
+book a meeting with emma tomorrow 4pm,create_meeting
+what meetings do i have today,query_schedule
+set meeting with john monday at 2pm,create_meeting
+please remind me to call mom next week,create_reminder
+set meeting with mike next week at 11am,create_meeting
+remove the meeting scheduled tuesday,cancel_event
+remind me today to prepare presentation,create_reminder
+create task finish project,add_task
+add task call mom,add_task
+create task send report,add_task
+create task prepare presentation,add_task
+remind me tuesday to call mom,create_reminder
+good morning,greeting
+book a meeting with sarah tuesday 2pm,create_meeting
+arrange meeting with alex next week 6pm,create_meeting
+hi,greeting
+show my schedule today,query_schedule
+show my schedule tomorrow,query_schedule
+set meeting with mike next week at 4pm,create_meeting
+hey assistant,greeting
+hello,greeting
+cancel appointment with alex today,cancel_event
+cancel appointment with mike next week,cancel_event
+remind me tuesday to call mom,create_reminder
+create task call mom,add_task
+hi,greeting
+show my schedule tomorrow,query_schedule
+put pay electricity bill in my task list,add_task
+hi,greeting
+show my schedule tuesday,query_schedule
+hello,greeting
+create task pay electricity bill,add_task
+hi,greeting
+cancel appointment with john tomorrow,cancel_event
+remind me today to pay electricity bill,create_reminder
+what meetings do i have tomorrow,query_schedule
+hello,greeting
+remove the meeting scheduled tuesday,cancel_event
+what meetings do i have next week,query_schedule
+remind me tomorrow to finish project,create_reminder
+set meeting with david next week at 2pm,create_meeting
+hello,greeting
+schedule meeting with david today at 2pm,create_meeting
+do i have meetings today,query_schedule
+cancel my meeting monday,cancel_event
+cancel my meeting tuesday,cancel_event
+set meeting with mike monday at 2pm,create_meeting
+add to my todo send report,add_task
+remind me next week to buy groceries,create_reminder
+remind me today to finish project,create_reminder
+schedule meeting with alex today at 2pm,create_meeting
+add task buy groceries,add_task
+show my schedule monday,query_schedule
+delete my meeting with emma tuesday,cancel_event
+remind me today to pay electricity bill,create_reminder
+schedule meeting with alex today at 9am,create_meeting
+add task buy groceries,add_task
+do i have meetings today,query_schedule
+do i have meetings tomorrow,query_schedule
+remind me tuesday to send report,create_reminder
+cancel appointment with alex tomorrow,cancel_event
+schedule meeting with john monday at 11am,create_meeting
+cancel appointment with mike monday,cancel_event
+arrange meeting with mike monday 9am,create_meeting
+hello,greeting
+remove the meeting scheduled monday,cancel_event
+arrange meeting with john today 9am,create_meeting
+cancel my meeting tuesday,cancel_event
+delete my meeting with sarah tuesday,cancel_event
+add to my todo finish project,add_task
+arrange meeting with alex tomorrow 4pm,create_meeting
+what meetings do i have tomorrow,query_schedule
+do i have meetings tuesday,query_schedule
+add task prepare presentation,add_task
+schedule meeting with mike today at 9am,create_meeting
+remove the meeting scheduled tuesday,cancel_event
+what meetings do i have next week,query_schedule
+hello,greeting
+remove the meeting scheduled next week,cancel_event
+hi,greeting
+good morning,greeting
+add to my todo pay electricity bill,add_task
+remind me to finish project tuesday,create_reminder
+cancel my meeting tomorrow,cancel_event
+hey assistant,greeting
+do i have meetings today,query_schedule
+set meeting with mike today at 11am,create_meeting
+list events today,query_schedule
+remove the meeting scheduled tomorrow,cancel_event
+list events next week,query_schedule
+please remind me to send report tuesday,create_reminder
+book a meeting with sarah next week 9am,create_meeting
+remind me next week to pay electricity bill,create_reminder
+remove the meeting scheduled tomorrow,cancel_event
+cancel appointment with mike tuesday,cancel_event
+hi,greeting
+what meetings do i have tomorrow,query_schedule
+list events monday,query_schedule
+remove the meeting scheduled monday,cancel_event
+cancel my meeting tomorrow,cancel_event
+hi,greeting
+add task buy groceries,add_task
+add task send report,add_task
+remove the meeting scheduled tomorrow,cancel_event
+hi,greeting
+set meeting with david tomorrow at 4pm,create_meeting
+remind me to pay electricity bill tuesday,create_reminder
+put buy groceries in my task list,add_task
+arrange meeting with john tomorrow 11am,create_meeting
+show my schedule next week,query_schedule
+add to my todo pay electricity bill,add_task
+hello,greeting
+remind me to pay electricity bill monday,create_reminder
+set a reminder to pay electricity bill today,create_reminder
+put buy groceries in my task list,add_task
+do i have meetings monday,query_schedule
+cancel appointment with mike today,cancel_event
+do i have meetings next week,query_schedule
+show my schedule next week,query_schedule
+create task finish project,add_task
+arrange meeting with john today 2pm,create_meeting
+set meeting with sarah monday at 2pm,create_meeting
+please remind me to buy groceries tomorrow,create_reminder
+set a reminder to pay electricity bill tomorrow,create_reminder
+set meeting with david tuesday at 2pm,create_meeting
+hey assistant,greeting
+remind me today to finish project,create_reminder
+create task pay electricity bill,add_task
+what meetings do i have monday,query_schedule
+hello,greeting
+remind me to pay electricity bill tomorrow,create_reminder
+schedule meeting with david monday at 4pm,create_meeting
+set a reminder to buy groceries today,create_reminder
+delete my meeting with mike today,cancel_event
+list events monday,query_schedule
+good morning,greeting
+hi,greeting
+remind me to pay electricity bill tomorrow,create_reminder
+put pay electricity bill in my task list,add_task
+remind me monday to send report,create_reminder
+add task call mom,add_task
+what meetings do i have tomorrow,query_schedule
+do i have meetings next week,query_schedule
+show my schedule tomorrow,query_schedule
+hi,greeting
+good morning,greeting
+hello,greeting
+book a meeting with emma monday 9am,create_meeting
+hello,greeting
+good morning,greeting
+cancel my meeting next week,cancel_event
+hi,greeting
+set a reminder to buy groceries monday,create_reminder
+create task call mom,add_task
+schedule meeting with alex tomorrow at 4pm,create_meeting
+book a meeting with mike monday 9am,create_meeting
+what meetings do i have today,query_schedule
+remind me tomorrow to pay electricity bill,create_reminder
+cancel appointment with david tomorrow,cancel_event
+hi,greeting
+cancel my meeting tomorrow,cancel_event
+hi,greeting
+put finish project in my task list,add_task
+hi,greeting
+add to my todo prepare presentation,add_task
+schedule meeting with emma monday at 4pm,create_meeting
+please remind me to finish project tomorrow,create_reminder
+delete my meeting with mike tomorrow,cancel_event
+good morning,greeting
+cancel appointment with david tuesday,cancel_event
+add to my todo send report,add_task
+what meetings do i have monday,query_schedule
+please remind me to prepare presentation tomorrow,create_reminder
+set meeting with sarah tomorrow at 2pm,create_meeting
+set a reminder to buy groceries monday,create_reminder
+hey assistant,greeting
+hi,greeting
+remind me tuesday to buy groceries,create_reminder
+set meeting with alex today at 9am,create_meeting
+create task finish project,add_task
+set meeting with emma tuesday at 2pm,create_meeting
+cancel appointment with john next week,cancel_event
+add to my todo call mom,add_task
+hi,greeting
+cancel appointment with john tomorrow,cancel_event
+set meeting with sarah today at 4pm,create_meeting
+please remind me to pay electricity bill monday,create_reminder
+create task pay electricity bill,add_task
+set meeting with mike next week at 6pm,create_meeting
+remove the meeting scheduled tomorrow,cancel_event
+remind me to finish project tuesday,create_reminder
+remove the meeting scheduled today,cancel_event
+show my schedule monday,query_schedule
+create task buy groceries,add_task
+cancel my meeting today,cancel_event
+please remind me to prepare presentation next week,create_reminder
+book a meeting with sarah next week 4pm,create_meeting
+remind me next week to call mom,create_reminder
+delete my meeting with john monday,cancel_event
+cancel my meeting tuesday,cancel_event
+remind me to prepare presentation today,create_reminder
+what meetings do i have tomorrow,query_schedule
+remind me to pay electricity bill monday,create_reminder
+cancel my meeting monday,cancel_event
+add task call mom,add_task
+list events monday,query_schedule
+arrange meeting with mike monday 4pm,create_meeting
+please remind me to prepare presentation tuesday,create_reminder
+do i have meetings next week,query_schedule
+set meeting with sarah tomorrow at 11am,create_meeting
+cancel appointment with emma tuesday,cancel_event
+good morning,greeting
+remove the meeting scheduled tuesday,cancel_event
+create task prepare presentation,add_task
+list events next week,query_schedule
+create task prepare presentation,add_task
+hey assistant,greeting
+do i have meetings today,query_schedule
+show my schedule monday,query_schedule
+cancel my meeting monday,cancel_event
+add to my todo pay electricity bill,add_task
+arrange meeting with emma tomorrow 9am,create_meeting
+schedule meeting with mike next week at 6pm,create_meeting
+hello,greeting
+remind me today to prepare presentation,create_reminder
+list events tuesday,query_schedule
+do i have meetings tomorrow,query_schedule
+put send report in my task list,add_task
+add to my todo call mom,add_task
+hello,greeting
+book a meeting with sarah tomorrow 2pm,create_meeting
+add to my todo call mom,add_task
+do i have meetings tuesday,query_schedule
+hello,greeting
+arrange meeting with john monday 9am,create_meeting
+hello,greeting
+remind me to buy groceries tomorrow,create_reminder
+arrange meeting with sarah tuesday 11am,create_meeting
+show my schedule today,query_schedule
+hi,greeting
+remind me tomorrow to call mom,create_reminder
+hi,greeting
+add to my todo buy groceries,add_task
+hello,greeting
+hey assistant,greeting
+please remind me to call mom tomorrow,create_reminder
+delete my meeting with sarah tomorrow,cancel_event
+add task buy groceries,add_task
+good morning,greeting
+please remind me to finish project today,create_reminder
+put call mom in my task list,add_task
+do i have meetings next week,query_schedule
+remove the meeting scheduled tuesday,cancel_event
+hey assistant,greeting
+please remind me to call mom monday,create_reminder
+arrange meeting with david tuesday 4pm,create_meeting
+hi,greeting
+arrange meeting with david tomorrow 9am,create_meeting
+remind me to buy groceries next week,create_reminder
+what meetings do i have tomorrow,query_schedule
+delete my meeting with sarah tuesday,cancel_event
+book a meeting with mike tomorrow 2pm,create_meeting
+hello,greeting
+put finish project in my task list,add_task
+good morning,greeting
+cancel appointment with david tuesday,cancel_event
+hi,greeting
+cancel appointment with alex next week,cancel_event
+remove the meeting scheduled today,cancel_event
+book a meeting with david tuesday 6pm,create_meeting
+delete my meeting with emma next week,cancel_event
+put pay electricity bill in my task list,add_task
+create task finish project,add_task
+cancel appointment with emma today,cancel_event
+show my schedule tomorrow,query_schedule
+remind me next week to prepare presentation,create_reminder
+add to my todo finish project,add_task
+what meetings do i have monday,query_schedule
+cancel appointment with david today,cancel_event
+what meetings do i have next week,query_schedule
+please remind me to finish project tuesday,create_reminder
+list events tuesday,query_schedule
+arrange meeting with sarah today 2pm,create_meeting
+set meeting with emma monday at 11am,create_meeting
+set a reminder to buy groceries tuesday,create_reminder
+remind me next week to send report,create_reminder
+remind me tomorrow to pay electricity bill,create_reminder
+cancel appointment with john today,cancel_event
+do i have meetings tuesday,query_schedule
+cancel appointment with sarah next week,cancel_event
+show my schedule tuesday,query_schedule
+set meeting with emma tomorrow at 9am,create_meeting
+remove the meeting scheduled today,cancel_event
+hi,greeting
+remove the meeting scheduled today,cancel_event
+cancel my meeting today,cancel_event
+remind me to buy groceries tomorrow,create_reminder
+create task call mom,add_task
+list events next week,query_schedule
+show my schedule tuesday,query_schedule
+what meetings do i have tomorrow,query_schedule
+remove the meeting scheduled today,cancel_event
+remind me to finish project tomorrow,create_reminder
+list events next week,query_schedule
+hello,greeting
+delete my meeting with john today,cancel_event
+remind me today to finish project,create_reminder
+book a meeting with alex today 11am,create_meeting
+add task buy groceries,add_task
+hello,greeting
+what meetings do i have tuesday,query_schedule
+remind me tomorrow to buy groceries,create_reminder
+add task pay electricity bill,add_task
+remind me tomorrow to call mom,create_reminder
+set meeting with john tomorrow at 11am,create_meeting
+good morning,greeting
+hi,greeting
+good morning,greeting
+arrange meeting with mike tuesday 4pm,create_meeting
+what meetings do i have tuesday,query_schedule
+remind me to send report monday,create_reminder
+add task send report,add_task
+cancel appointment with sarah tuesday,cancel_event
+remove the meeting scheduled monday,cancel_event
+create task pay electricity bill,add_task
+arrange meeting with sarah tuesday 6pm,create_meeting
+add task pay electricity bill,add_task
+list events today,query_schedule
+hello,greeting
+schedule meeting with david tomorrow at 2pm,create_meeting
+cancel my meeting next week,cancel_event
+list events tuesday,query_schedule
+hey assistant,greeting
+hello,greeting
+remind me to send report today,create_reminder
+cancel my meeting monday,cancel_event
+cancel my meeting monday,cancel_event
+list events next week,query_schedule
+cancel my meeting next week,cancel_event
+set a reminder to call mom next week,create_reminder
+cancel my meeting next week,cancel_event
+delete my meeting with sarah tuesday,cancel_event
+hi,greeting
+show my schedule monday,query_schedule
+do i have meetings tuesday,query_schedule
+add task prepare presentation,add_task
+do i have meetings monday,query_schedule
+create task send report,add_task
+hi,greeting
+do i have meetings tuesday,query_schedule
+do i have meetings today,query_schedule
+cancel my meeting today,cancel_event
+hi,greeting
+arrange meeting with emma monday 9am,create_meeting
+hello,greeting
+set a reminder to send report today,create_reminder
+cancel appointment with alex tuesday,cancel_event
+hey assistant,greeting
+show my schedule tomorrow,query_schedule
+hey assistant,greeting
+show my schedule today,query_schedule
+put pay electricity bill in my task list,add_task
+hey assistant,greeting
+create task call mom,add_task
+put buy groceries in my task list,add_task
+delete my meeting with mike tuesday,cancel_event
+good morning,greeting
+add task call mom,add_task
+remind me to buy groceries monday,create_reminder
+set meeting with alex today at 11am,create_meeting
+book a meeting with john tomorrow 2pm,create_meeting
+hello,greeting
+good morning,greeting
+show my schedule monday,query_schedule
+hello,greeting
+set a reminder to pay electricity bill monday,create_reminder
+put prepare presentation in my task list,add_task
+set meeting with emma tuesday at 4pm,create_meeting
+arrange meeting with david monday 4pm,create_meeting
+set a reminder to send report monday,create_reminder
+cancel my meeting tomorrow,cancel_event
+delete my meeting with david today,cancel_event
+hi,greeting
+set meeting with david today at 2pm,create_meeting
+please remind me to send report today,create_reminder
+schedule meeting with alex tomorrow at 4pm,create_meeting
+create task prepare presentation,add_task
+add to my todo finish project,add_task
+remind me next week to prepare presentation,create_reminder
+arrange meeting with emma tuesday 9am,create_meeting
+please remind me to send report tuesday,create_reminder
+what meetings do i have tuesday,query_schedule
+create task send report,add_task
+set meeting with alex next week at 6pm,create_meeting
+remove the meeting scheduled monday,cancel_event
+hello,greeting
+please remind me to send report tomorrow,create_reminder
+remind me to prepare presentation today,create_reminder
+please remind me to call mom tuesday,create_reminder
+cancel appointment with john tomorrow,cancel_event
+hello,greeting
+list events monday,query_schedule
+good morning,greeting
+arrange meeting with john today 4pm,create_meeting
+create task prepare presentation,add_task
+remind me tuesday to buy groceries,create_reminder
+good morning,greeting
+remind me tomorrow to pay electricity bill,create_reminder
+add to my todo send report,add_task
+set a reminder to prepare presentation today,create_reminder
+hi,greeting
+remove the meeting scheduled tuesday,cancel_event
+book a meeting with john tomorrow 4pm,create_meeting
+book a meeting with mike tomorrow 9am,create_meeting
+show my schedule tuesday,query_schedule
+hi,greeting
+please remind me to prepare presentation next week,create_reminder
+create task send report,add_task
+cancel my meeting monday,cancel_event
+schedule meeting with sarah tuesday at 4pm,create_meeting
+add to my todo finish project,add_task
+hi,greeting
+create task finish project,add_task
+set a reminder to buy groceries tuesday,create_reminder
+remind me to finish project today,create_reminder
+add to my todo send report,add_task
+remind me to prepare presentation tomorrow,create_reminder
+delete my meeting with sarah monday,cancel_event
+hello,greeting
+hi,greeting
+add to my todo buy groceries,add_task
+what meetings do i have monday,query_schedule
+schedule meeting with david tomorrow at 9am,create_meeting
+book a meeting with david next week 4pm,create_meeting
+set meeting with john tomorrow at 6pm,create_meeting
+good morning,greeting
+do i have meetings monday,query_schedule
+show my schedule tuesday,query_schedule
+put buy groceries in my task list,add_task
+do i have meetings today,query_schedule
+set meeting with mike next week at 6pm,create_meeting
+schedule meeting with mike next week at 4pm,create_meeting
+what meetings do i have tomorrow,query_schedule
+create task send report,add_task
+what meetings do i have monday,query_schedule
+add task prepare presentation,add_task
+cancel appointment with alex tuesday,cancel_event
+cancel my meeting next week,cancel_event
+arrange meeting with alex tuesday 6pm,create_meeting
+please remind me to send report tomorrow,create_reminder
+good morning,greeting
+delete my meeting with john tomorrow,cancel_event
+cancel appointment with emma tuesday,cancel_event
+hello,greeting
+show my schedule tuesday,query_schedule
+schedule meeting with sarah tuesday at 2pm,create_meeting
+put finish project in my task list,add_task
+add to my todo call mom,add_task
+cancel appointment with emma monday,cancel_event
+hi,greeting
+hello,greeting
+schedule meeting with david today at 4pm,create_meeting
+hi,greeting
+cancel my meeting tomorrow,cancel_event
+schedule meeting with alex today at 2pm,create_meeting
+show my schedule next week,query_schedule
+put send report in my task list,add_task
+set a reminder to pay electricity bill next week,create_reminder
+do i have meetings today,query_schedule
+create task call mom,add_task
+list events tuesday,query_schedule
+what meetings do i have monday,query_schedule
+add task finish project,add_task
+list events next week,query_schedule
+good morning,greeting
+good morning,greeting
+schedule meeting with john next week at 9am,create_meeting
+add to my todo call mom,add_task
+arrange meeting with sarah next week 4pm,create_meeting
+do i have meetings today,query_schedule
+please remind me to send report monday,create_reminder
+book a meeting with david today 11am,create_meeting
+hi,greeting
+remind me today to prepare presentation,create_reminder
+arrange meeting with john next week 11am,create_meeting
